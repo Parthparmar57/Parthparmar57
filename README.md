@@ -1,35 +1,39 @@
-<h1 align="center">Hi 👋, I'm Parth Parmar</h1>
-<h3 align="center">Frontend Developer • Data Analysis & AI/ML Enthusiast</h3>
+<h1 align="center">👋 Hi, I'm Parth Parmar</h1>
+<h3 align="center">🎨 Frontend Developer | 📊 Data Analysis | 🤖 AI/ML Enthusiast</h3>
+
+<p align="center">
+🚀 Building real-world web solutions • 🌱 Exploring AI & ML • 💡 Learning by doing
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 2nd Year IT Engineering Student at **LD College of Engineering, Ahmedabad**  
-💼 Freelance Web Developer providing scalable web solutions for businesses  
-🌐 Experience working on real-world production websites  
-🧠 Passionate about **Frontend Development, Data Analysis & AI/ML**  
+🎓 **2nd Year IT Engineering Student** at *LD College of Engineering, Ahmedabad*  
+💼 **Freelance Web Developer** delivering modern websites for businesses  
+🌍 Hands-on experience with **live production projects**  
+🧠 Strong interest in **Frontend, Data Analysis & AI/ML**
 
-🔗 Recent Client Projects:  
-- https://www.gayatrifurniturebidada.in  
-- https://www.vyomalearn.com  
-
----
-
-## 🎯 Career Focus
-
-- 🎨 Frontend Development (Modern UI & UX)
-- 📊 Data Analysis & Visualization
-- 🤖 Exploring AI & Machine Learning
+🔗 **Recent Client Work**
+- 🌐 https://www.gayatrifurniturebidada.in  
+- 🌐 https://www.vyomalearn.com  
 
 ---
 
-## 🛠 Tech Stack & Skills
+## 🎯 Career Interests
+
+🎨 Frontend Development  
+📊 Data Analysis  
+🤖 Artificial Intelligence & Machine Learning  
+
+---
+
+## 🛠 Skills & Tech Stack
 
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap)
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-black)
 
 ### 💻 Programming Languages
@@ -45,48 +49,84 @@
 ### 🗄 Database
 ![SQL](https://img.shields.io/badge/SQL-blue)
 
-### 🧠 Problem Solving
-- Data Structures & Algorithms (DSA)
-- Logical & analytical problem solving
+### 🧠 Core Strengths
+🧩 Problem Solving  
+📚 Data Structures & Algorithms (DSA)  
 
 ---
 
-## 🚀 Projects
+## 🏆 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🔁 SkillSwap Platform
-A MERN stack platform where students can exchange skills and learn from each other.
+🤝 MERN stack platform where students can  
+**exchange skills and learn from each other**
+
+🛠 **Tech Used:**  
+`MongoDB` · `Express` · `React` · `Node.js`
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 🎯 VIBE – Internship Platform
-A web-based platform that connects students with internship opportunities.
+🎓 A web platform designed to  
+**connect students with internship opportunities**
+
+🛠 **Tech Used:**  
+`React` · `JavaScript` · `SQL`
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🌱 Current Focus
 
-- Learning **Artificial Intelligence**
-- Exploring the field of **AI & Machine Learning**
-- Strengthening data analysis fundamentals
+🤖 Learning **Artificial Intelligence**  
+🔍 Exploring the **AI & ML ecosystem**  
+📊 Strengthening data analysis foundations  
 
 ---
 
 ## 🏆 Achievements
 
-- 🚀 Currently working with a **startup at iHub Gujarat, Ahmedabad**
-- 💼 Freelance experience with real business clients
+🚀 Currently working with a **startup at iHub Gujarat, Ahmedabad**  
+💼 Delivered freelance solutions for real businesses  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Parth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Parthparmar57&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Parthparmar57&layout=compact&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Parthparmar57&show_icons=true&theme=tokyonight" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthparmar57&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 🤝 Connect With Me
+## 🌐 Connect With Me
 
-📧 Email: **parthparmar5172@gmail.com**  
-💼 LinkedIn: *(add when ready)*  
-🌐 Portfolio: *(coming soon)*  
+<p align="center">
+<a href="https://github.com/Parthparmar57">
+  <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white"/>
+</a>
+<a href="mailto:parthparmar5172@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Portfolio-FF69B4"/>
+</a>
+</p>
 
-> *Building real-world solutions while learning every day.*
+---
+
+✨ *“Code. Learn. Build. Repeat.”*
