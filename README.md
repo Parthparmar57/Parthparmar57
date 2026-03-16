@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0d2137,100:0d1117&height=240&section=header&text=Parth%20Parmar&fontSize=72&fontColor=58A6FF&fontAlignY=40&desc=MERN%20Stack%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Frontend%20Engineer&descAlignY=62&descSize=18&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0d2137,100:0d1117&height=240&section=header&text=Parth%20Parmar&fontSize=72&fontColor=58A6FF&fontAlignY=40&desc=MERN%20Stack%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Backend%20Engineer&descAlignY=62&descSize=18&animation=twinkling" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Frontend+Engineer+%40+Curio+AI+%F0%9F%92%BC;Full+Stack+MERN+Developer+%F0%9F%9A%80;Building+FleetFlow+%E2%80%94+Fleet+Management+%F0%9F%9A%9B%EF%B8%8F;Building+CoreInventory+%E2%80%94+Inventory+System+%F0%9F%93%A6;REST+API+%7C+React+%7C+Vibe+Coding+%E2%9A%A1;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Open+to+Internships+%26+Collabs+%E2%9C%85" alt="Typing SVG" />
