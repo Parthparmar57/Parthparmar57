@@ -1,13 +1,13 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=160&section=header&text=Parth%20Parmar&fontSize=56&fontColor=E6EDF3&fontAlignY=55&desc=MERN%20%C2%B7%20%20%C2%B7%20AI%2FML&descAlignY=75&descSize=16&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:0a1628,70:0d1f3c,100:0d1117&height=220&section=header&text=Parth%20Parmar&fontSize=64&fontColor=E6EDF3&fontAlignY=42&desc=MERN%20%C2%B7%20Backend%20%C2%B7%20AI%2FML&descAlignY=62&descSize=17&animation=twinkling&stroke=1F6FEB&strokeWidth=1" />
 
 </div>
 
 <div align="center">
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=Frontend+Engineer+%40+Curio+AI+%E2%80%A2+Jan+2026%E2%80%93Present;B.E.+Information+Technology+%E2%80%A2+LDCE+Ahmedabad;Building+production-grade+full-stack+apps;Open+to+internships+%26+collaborations" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+%26+Backend+Engineer+%E2%80%A2+MERN+Stack;Frontend+Engineer+%40+Curio+AI+%E2%80%A2+Jan+2026%E2%80%93Present;B.E.+Information+Technology+%E2%80%A2+LDCE+Ahmedabad;Building+production-grade+full-stack+apps;Open+to+internships+%26+collaborations" />
 </a>
 
 </div>
