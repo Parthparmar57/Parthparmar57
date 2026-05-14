@@ -2,9 +2,8 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1200&color=39D353&center=true&vCenter=true&width=480&lines=%24+whoami+%E2%86%92+Parth+Parmar" alt="whoami" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1200&color=39D353&center=true&vCenter=true&width=480&lines=%24+whoami+%3A+Parth+Parmar" alt="$ whoami : Parth Parmar" />
 
-<sub>SDE Intern @ Curio AI &nbsp;·&nbsp; B.E. IT, LDCE Ahmedabad &nbsp;·&nbsp; 2nd Year</sub>
 
 <br/><br/>
 
@@ -21,8 +20,8 @@
 ---
 
 ```
-currently building  →  Spred AI          [ full-stack · AI-powered ]
-open to             →   collaborations and freelacing 
+currently building  →  Spred AI          [ full-stack · AI-powered · production ]
+open to             →  collaborations & freelance projects
 ```
 
 ---
