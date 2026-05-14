@@ -19,10 +19,6 @@
 
 ---
 
-```bash
-$ cat profile.json
-```
-
 ```json
 {
   "role"     : "SDE Intern @ Curio AI",
@@ -34,9 +30,7 @@ $ cat profile.json
 
 ---
 
-```bash
-$ ls ~/projects/
-```
+**projects**
 
 ```
 drwxr-xr-x  spred-ai/     [ACTIVE]   AI-powered platform — full-stack, production-grade
@@ -44,36 +38,10 @@ drwxr-xr-x  spred-ai/     [ACTIVE]   AI-powered platform — full-stack, product
 
 ---
 
+**skills**
+
 ```bash
 $ cat skills.sh
-```
-
-```bash
-skills=(
-  # Languages
-  Python  TypeScript  "C#"
-
-  # Frontend
-  React  Next.js  TailwindCSS
-
-  # Backend
-  Node.js  Express  Fastify
-
-  # Databases
-  PostgreSQL  MongoDB  Redis  Firebase
-
-  # Tools
-  Git  GitHub  Linux  VSCode  Prisma
-
-  # GenAI & LLM
-  LangChain  Ollama  Gemini
-)
-```
-
----
-
-```bash
-$ cat tech.md
 ```
 
 &#9632; ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -100,10 +68,6 @@ $ cat tech.md
 
 ---
 
-```bash
-$ github-stats --user Parthparmar57
-```
-
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Parthparmar57&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=E6EDF3&icon_color=58A6FF&text_color=8b949e" />
@@ -111,9 +75,3 @@ $ github-stats --user Parthparmar57
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Parthparmar57&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=E6EDF3" />
 
 </div>
-
----
-
-```bash
-$ echo "open to internships & collabs → helloitsmeparth@gmail.com"
-```
