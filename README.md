@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=%24+whoami;%3E+Parth+Parmar+%E2%80%94+SDE+Intern+%40+Curio+AI;%3E+Building+Spred+AI+%7C+Full-Stack+Engineer" alt="whoami terminal" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=%24+whoami+%E2%86%92+Parth+Parmar" alt="$ whoami → Parth Parmar" />
 
 </div>
 
@@ -18,21 +18,18 @@
 
 ---
 
-```bash
-$ whoami
-```
-```
-parth@dev — SDE Intern @ Curio AI
-B.E. IT · LDCE Ahmedabad · 2nd Year
-building  : Spred AI  ←  active
-contact   : helloitsmeparth@gmail.com
+```json
+{
+  "role"     : "SDE Intern @ Curio AI",
+  "degree"   : "B.E. IT — LDCE Ahmedabad · 2nd Year",
+  "building" : "Spred AI  ←  active",
+  "contact"  : "helloitsmeparth@gmail.com"
+}
 ```
 
 ---
 
-```bash
-$ ls ~/projects/
-```
+**projects**
 
 ```
 drwxr-xr-x  spred-ai/   [ACTIVE]   AI-powered platform — full-stack, production-grade
@@ -40,9 +37,7 @@ drwxr-xr-x  spred-ai/   [ACTIVE]   AI-powered platform — full-stack, productio
 
 ---
 
-```bash
-$ cat skills.txt
-```
+**skills**
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="36" height="36"/>&nbsp;&nbsp;
@@ -66,10 +61,6 @@ $ cat skills.txt
 </div>
 
 ---
-
-```bash
-$ github-stats --user Parthparmar57
-```
 
 <div align="center">
 
