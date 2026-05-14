@@ -21,8 +21,8 @@
 ---
 
 ```
-currently building  →  Spred AI          [ full-stack · AI-powered · production ]
-open to             →  internships & collaborations
+currently building  →  Spred AI          [ full-stack · AI-powered ]
+open to             →   collaborations and freelacing 
 ```
 
 ---
