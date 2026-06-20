@@ -20,7 +20,6 @@
 ---
 
 ```
-currently building  →  Spred AI          [ full-stack · AI-powered · production ]
 open to             →  collaborations & freelance projects
 ```
 
